@@ -4,6 +4,6 @@ This repo contains a quick analysis of Damian Lillard, Point-Guard for the Portl
 
 As an incredibly basic intro to my personal projects, I thought it would be interesting to see if Damian Lillard was any more efficient during a particular day of the week. Surprise, he's incredibly efficient regardless of the day.
 
-![lillard_ppg_dow](Damian Lillard DOW PPG.png)
+![lillard_ppg_dow](lillard_ppg_dow.png)
 
 Author: Rob Savage
