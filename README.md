@@ -67,7 +67,7 @@ https://www.basketball-reference.com/
 
 5. Once the new data frame was created, `Seaborn` and `Matplotlib` were employed to create the visualization 
 
-![Damian Lillard PPG DOW Visualization](images/lillard_ppg_dow.png) "Damian Lillard PPG DOW Visualization")
+![Damian Lillard PPG DOW Visualization](images/lillard_ppg_dow.png "Damian Lillard PPG DOW Visualization")
 
 ---
 
