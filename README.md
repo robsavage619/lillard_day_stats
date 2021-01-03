@@ -1,10 +1,10 @@
 # Damian Lillard PPG - Day of the Week Analysis
 
-![Damian Lillard](Images/dame_0.jpg)
+![Damian Lillard](images/dame_0.jpg)
 
 ---
 
-![Visualization](Images/dame-ppg-gif.gif "Notebook Walkthrough")
+![Visualization](images/dame-ppg-gif.gif "Notebook Walkthrough")
 
 ---
 
@@ -67,7 +67,7 @@ https://www.basketball-reference.com/
 
 5. Once the new data frame was created, `Seaborn` and `Matplotlib` were employed to create the visualization 
 
-![Damian Lillard PPG DOW Visualization](images/lillard_ppg_dow.png)
+![Damian Lillard PPG DOW Visualization](images/lillard_ppg_dow.png) "Damian Lillard PPG DOW Visualization")
 
 ---
 
